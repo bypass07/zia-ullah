@@ -2,6 +2,7 @@
 # -*- coding: utf-8
 #OPEN SOURCE:)*
 #NOT My OWN Script:)
+#I EDIT THIS FOR MY DUDE:)
 
 
 try:
